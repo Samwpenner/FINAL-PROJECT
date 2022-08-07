@@ -1,0 +1,87 @@
+body{
+    background-color: #F2EFE6;
+}
+/* .navbar{
+    background-color: #F2EFE6;
+} */
+.navbar-brand{
+    padding:25px;
+    padding-left: 50px;
+    color:black;
+    font-size: 30px;
+    font-family: 'Roboto Mono', monospace;
+}
+.navbar-nav{
+    padding-right: 15px;
+}
+.locations{
+    margin-top: 15px;
+    font-size: 20px;
+}
+.ingredients{
+    width: 100vw;
+}
+#pbox-text, #refill-text{
+    padding:75px;
+    text-align: left;
+}
+button{
+    border: none;
+    background-color: gray;
+    border-radius: 4px;
+    color:white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    font-family: 'Roboto Mono', monospace;
+}
+#lbutton{
+    margin-top:10px;
+    padding: 15px 32px;
+    background-color: #F2EFE6;
+    color:black;
+    text-align: center;
+    text-decoration: none;
+}
+.box{
+    width:648px;
+}
+#jumbo1{
+    margin-left: 25vw;
+    background-color: transparent;
+}
+#jumbo2{
+    margin-left: 25vw;
+}
+#jumbo3{
+    margin-left: 25vw;
+}
+p{
+    font-family: 'Jura', sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    color:black;
+}
+h1{
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 500;
+    font-size: 60px;
+    padding-bottom: 20px;
+}
+h2{
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 500;
+    font-size: 40px;
+    padding-bottom: 20px;
+}
+a{
+    font-family: 'Roboto Mono', monospace;
+}
+.bottle{
+    width:25vw;
+}
+.personalize{
+    padding-bottom:25px;
+}
